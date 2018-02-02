@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Eldin Dzubur, PhD - Applied Behavioral Data Scientist"
+title = "welcome"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -50,8 +50,8 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Eldin Dzubur"
+  role = "Project Scientist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
