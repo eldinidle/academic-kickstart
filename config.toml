@@ -233,6 +233,16 @@ defaultContentLanguageInSubdir = false
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/eldinidle"
+    
+   [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = " https://orcid.org/0000-0002-3248-5327"
+    
+   [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Eldin_Dzubur"
 
 
 # Navigation Links
