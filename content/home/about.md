@@ -10,26 +10,26 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Experience Sampling and Ecological Momentary Assessment",
+    "Wearables and Remote Sensors",
+    "Digital Health Interventions"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Health Behavior Research"
+  institution = "University of Southern California"
+  year = 2017
+
+[[education.courses]]
+  course = "MS in Health Psychology"
+  institution = "University of Michigan-Dearborn"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BS in Psychology"
+  institution = "Wayne State University"
+  year = 2010
  
 +++
 
