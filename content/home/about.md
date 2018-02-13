@@ -35,6 +35,6 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Eldin Dzubur is a behavioral health researcher primarily interested in the implementation  of experience sampling and ambulatory assessment methodology. Dr. Dzubur's work has focused on the challenges and opportunities that accompany ecological momentary assessment, and he seeks to further preventive medicine by applying these lessons to behavioral interventions. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Dr. Dzubur is the author of xtmixed, a Stata package used to disaggregate the within- and between-subject effects in multilevel models using ecological momentary assessment data. He has also developed an R package, ActiPro, used to integrate output data from ActiLife software with standalone physial activity studies and those using ecological momentary assessment. Dr. Dzubur has developed mobile applications, including a smoking cessation app known as MyQuitUSC available on the Google Play Store. 
