@@ -11,9 +11,6 @@ title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
-
-{{< tweet 915686674046128128 >}}
-  
+weight = 60  
 
 +++
