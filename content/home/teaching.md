@@ -15,3 +15,11 @@ weight = 60
 
 +++
 
++++
+[twitter]
+  card = "summary"
+  site = "@eldindzubur"
+  title = "Special Title for the Card"
+  description = "Special Description for the card max. 200 characters"
+  image = "https://example.com/great-picture.jpg"
++++
