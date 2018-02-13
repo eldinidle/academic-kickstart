@@ -13,9 +13,7 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 60
 
-  card = "summary_large_image"
-  site = "@eldindzubur"
-  creator = "@eldindzubur"
+{{< tweet 915686674046128128 >}}
   
 
 +++
