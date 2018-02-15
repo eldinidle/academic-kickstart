@@ -14,6 +14,3 @@ subtitle = ""
 weight = 60  
 
 +++
-
-
-{{< twitter >}}
