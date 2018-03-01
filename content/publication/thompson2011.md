@@ -1,11 +1,11 @@
 +++
-title = "{{ replace .TranslationBaseName "-" " " | title }}"
-date = {{ .Date }}
+title = "The effects of estradiol on 17β-hydroxysteroid dehydrogenase type IV and androgen receptor expression in the developing zebra finch song system."
+date = "2011-07-15"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["J B Thomspon", "E Dzubur", "M Tomaszycki"]
-1.	Thompson, J. B., Dzubur, E., Wade, J., & Tomaszycki, M. (2011, July 15). The effects of estradiol on 17β-hydroxysteroid dehydrogenase type IV and androgen receptor expression in the developing zebra finch song system. Brain Research,1401, 66-73.
+
 # Publication type.
 # Legend:
 # 0 = Uncategorized
