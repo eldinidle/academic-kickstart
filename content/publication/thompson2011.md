@@ -18,7 +18,7 @@ authors = ["J B Thomspon", "E Dzubur", "M Tomaszycki"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "The effects of estradiol on 17β-hydroxysteroid dehydrogenase type IV and androgen receptor expression in the developing zebra finch song system."
+publication = "Brain Research"
 publication_short = ""
 
 # Abstract and optional shortened version.
