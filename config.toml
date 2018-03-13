@@ -10,7 +10,7 @@ title = "Eldin Dzubur, PhD"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2018 Eldin Dzubur"
 
 theme = "academic"
 enableEmoji = true
@@ -233,12 +233,12 @@ defaultContentLanguageInSubdir = false
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/eldinidle"
-    
+
    [[params.social]]
     icon = "orcid"
     icon_pack = "ai"
     link = "//orcid.org/0000-0002-3248-5327"
-    
+
    [[params.social]]
     icon = "researchgate"
     icon_pack = "ai"
