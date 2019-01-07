@@ -59,10 +59,10 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "eldin.dzubur@csmc.edu"
-  address = "116 N Robertson Blvd, Suite 800.7J, Los Angeles, CA 90048"
+  email = "dzubur@usc.edu"
+  address = "1150 S Olive St, Suite 1503C, Los Angeles, CA 90015"
   office_hours = "By appointment only"
-  phone = "310 423 5434"
+  phone = "213 821 4395"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
